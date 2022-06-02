@@ -1,0 +1,5 @@
+.app-body {
+	grid-area: body;
+	background-color: #336;
+	color: white;
+}

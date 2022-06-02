@@ -1,0 +1,10 @@
+.app-layout {
+	display: grid;
+	grid-template-rows: auto 1fr;
+	grid-template-columns: 20vw 1fr;
+	grid-template-areas:
+		"navbar navbar"
+		"sidebar body";
+	height: 100%;
+	width: 100%;
+}

@@ -1,0 +1,5 @@
+.navbar {
+	height: 10vh;
+	grid-area: navbar;
+	background-color: #33aaff;
+}
